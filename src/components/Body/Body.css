@@ -1,0 +1,25 @@
+.aboutme {
+    padding-bottom: 30px;
+    margin: 110px;
+    font-size: 19px;
+}
+
+@media only screen and (max-width: 360px) {
+
+.aboutme {
+    font-size: 14px;
+    margin: auto;
+}
+
+h1 {
+    padding-top: 20px;
+    font-size: 22px;
+    margin: auto;
+}
+}
+
+
+
+
+
+
